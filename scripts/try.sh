@@ -4,7 +4,8 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
 
@@ -14,7 +15,8 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
 
@@ -24,7 +26,8 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
 
@@ -34,7 +37,8 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
 
@@ -44,7 +48,8 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
 
@@ -54,6 +59,7 @@ export GIT_AUTHOR_DATE=$d
 export GIT_COMMITTER_DATE=$d
 
 touch $d
-git add .; git commit -m $d;
+git add .;
+git commit --author="satijaakarsh satija.akarsh@gmail.com" -m $d;
 
 
